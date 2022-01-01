@@ -1,0 +1,2 @@
+# obcdn
+My obsidian CDN
